@@ -180,20 +180,7 @@ const SignUp = () => {
                       </div>
 
                       {/* <!-- Checkbox --> */}
-                      <div className="form-check d-flex justify-content-center mb-4">
-                        <input
-                          className="form-check-input me-2"
-                          type="checkbox"
-                          value=""
-                          id="form2Example33"
-                        />
-                        <label
-                          className="form-check-label"
-                          for="form2Example33"
-                        >
-                          Subscribe to our newsletter
-                        </label>
-                      </div>
+                      
 
                       {/* <!-- Submit button --> */}
                       <button
