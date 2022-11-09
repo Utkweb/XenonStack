@@ -127,13 +127,14 @@ ContactUS Page
 
 Logout Page
 
-![image](https://user-images.githubusercontent.com/69459568/200961242-22b1b7b2-9eee-47a2-92e6-2bf1a533fdb8.png)
+![Screenshot (176)](https://user-images.githubusercontent.com/69459568/200966481-6e5eef53-c7b8-4435-90db-3ccfa3d10bb6.png)
+
 
 And other design on the home page 
 
 Services
 
-![image](https://user-images.githubusercontent.com/69459568/200961389-52e74fd7-27d6-46f0-8b9e-554885aa8b64.png)
+![Screenshot (178)](https://user-images.githubusercontent.com/69459568/200966525-9ab68452-3695-4437-994a-86204d05d9c8.png)
 
 About Us
 
@@ -141,7 +142,7 @@ About Us
 
 Footer of the website
 
-![Screenshot (179)](https://user-images.githubusercontent.com/69459568/200961430-5900b7a5-1a06-4c29-9ba7-9e1e99dbf8fd.png)
+![Screenshot (172)](https://user-images.githubusercontent.com/69459568/200966574-e11d23e0-65f8-4a7d-8bad-acb319587e42.png)
 
 
 
