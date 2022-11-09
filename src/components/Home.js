@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import "./Home.css";
 
 const Home = () => {
@@ -85,7 +86,9 @@ const Home = () => {
             Facere dignissimos ducimus porro inventore ex officiis, a
             perspiciatis atque accusantium aperiam.
           </p>
-          <button className="btn btn-primary">Contact Us</button>
+          <NavLink className="btn btn-primary" to="/contact">
+                ContactUs
+              </NavLink>
         </div>
       </section>
 <footer className="text-center text-lg-start bg-white text-muted">

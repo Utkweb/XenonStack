@@ -26,9 +26,12 @@ const Login = () => {
     if (res.status === 200) {
       console.log("success");
       toast.success('Successfully LoggedIn!')
+      navigate("/Home");
       
 
       const data = await res.json();
+      console.log(data)
+      setLoggedIn(true)
       sessionStorage.setItem("user", JSON.stringify(data));
     } else {
       console.log("Login error ");

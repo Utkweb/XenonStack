@@ -1,8 +1,11 @@
 import { Formik } from "formik";
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import "./Contact.css";
+import {Toaster, toast} from "react-hot-toast";
 
 const ContactUs = () => {
+  const navigate = useNavigate();
   const contactform = {
     name: "",
     email: "",
@@ -20,8 +23,20 @@ const ContactUs = () => {
         "Content-Type": "application/json",
       },
     });
+    if (response.status === 200) {
+      console.log("Success");
+      toast.success("We'll get back to you soon!");
+      navigate("/Home");
+    } else {
+      console.log("Something went wrong");
+      toast.error("Something went wrong ❌");
+    }
+  };
   return (
     <div className="container cont1">
+    <Toaster position="bottom-right" reverseOrder={false} />
+
+
       <h2 className="text-center">Contact Us</h2>
       <Formik
         initialValues={contactform}
@@ -55,7 +70,7 @@ const ContactUs = () => {
                 rows="4"
                 onChange={handleChange}
                               value={values.message}
-              ></textarea>
+              />
               <label className="form-label" for="form4Example3">
                 Message
               </label>

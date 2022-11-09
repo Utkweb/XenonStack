@@ -5,7 +5,7 @@
   }
   .bodi {
     background-color: #1e56a0;
-    height: 100vh;
+    background-attachment: fixed;
   }
   .mainF .boxes div {
     color: white;
@@ -15,7 +15,7 @@
   }
   .main {
     background: white;
-    height: 75vh;
+    height: 55vh;
     background-color: hsla(0, 0%, 100%, 0.9) !important;
     backdrop-filter: saturate(200%) blur(25px);
     border-radius: 2%;

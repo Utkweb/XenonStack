@@ -58,6 +58,12 @@ const Header = () => {
                 Signup
               </NavLink>
             </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" to="/contact">
+                ContactUs
+              </NavLink>
+            </li>
+            
 
             {!loggedIn ? (
               <li className="nav-item">
