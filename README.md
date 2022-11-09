@@ -43,7 +43,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Home Page of Website
 
-![image](https://user-images.githubusercontent.com/69459568/200961202-20ad7c50-2f3f-4cec-9305-914ecbf77c8d.png)
+![Screenshot (177)](https://user-images.githubusercontent.com/69459568/200966661-9053b106-25b1-4885-9ba9-8ffe7f4d885f.png)
+
 
 
 
