@@ -39,32 +39,144 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## About The Project
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Home Page of Website
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://user-images.githubusercontent.com/69459568/200961202-20ad7c50-2f3f-4cec-9305-914ecbf77c8d.png)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+The project is designed on the theme Medical, a websites where people used to visit the websites amd register themselves for further proceeding like searching for the best hospital require according to the need, ordering there medicines, taking appointement from doctor, and many more.
+1. The project is being desined and developed through MERN Stack Development.
+2. Database used is MongoDB
+3. Some frameworks are also used like ReactJS,NodeJS,etc.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### Built With
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-### `npm run build` fails to minify
+* MongoDB
+* ReactJS
+* NodeJS
+* ExpressJS
+* Bootstrap
+* MaterialUI
+* MDBOOTSTRAP
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+1. The first task is to create the react app on your system by entering the command "npx create-react-app app_name".
+2. Then after this install some packages which are usable for executing the project.
+3. Then building the new folder name as backend in which the database connection is done.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+SignUp Page 
+
+![Screenshot (173)](https://user-images.githubusercontent.com/69459568/200960783-6f749fc5-148f-47c5-a4e6-deccb2f21ee0.png)
+
+Login Page
+
+![Screenshot (175)](https://user-images.githubusercontent.com/69459568/200960813-4a0c6560-3e32-4ba5-99a3-9437d8dc7e48.png)
+
+ContactUS Page
+
+![Screenshot (174)](https://user-images.githubusercontent.com/69459568/200960826-8758be69-376d-43b9-b5b8-629e01e2481b.png)
+
+Logout Page
+
+![image](https://user-images.githubusercontent.com/69459568/200961242-22b1b7b2-9eee-47a2-92e6-2bf1a533fdb8.png)
+
+And other design on the home page 
+
+Services
+
+![image](https://user-images.githubusercontent.com/69459568/200961389-52e74fd7-27d6-46f0-8b9e-554885aa8b64.png)
+
+About Us
+
+![Screenshot (179)](https://user-images.githubusercontent.com/69459568/200961406-3eb69187-5dce-4009-8b39-b15378660202.png)
+
+Footer of the website
+
+![Screenshot (179)](https://user-images.githubusercontent.com/69459568/200961430-5900b7a5-1a06-4c29-9ba7-9e1e99dbf8fd.png)
+
+
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - Utkarsh Singh
+
+Project Link: https://github.com/Utkweb/XenonStack
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
